@@ -4,7 +4,7 @@ end
 
 def my_hash
   {
-    name: "Roman"
+    name: "Roman",
     language: "ruby",
     skill_level: "beginner"
   }
